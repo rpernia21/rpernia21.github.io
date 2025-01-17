@@ -4,12 +4,6 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
----
-title: "About Me"
-author: "Ronald A. Pernia (路奈爾)"
-format: html
----
-
 # About Me  
 
 Hi! I am **Ronald A. Pernia (路奈爾)**.  
