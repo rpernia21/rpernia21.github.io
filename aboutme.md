@@ -4,13 +4,30 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+---
+title: "About Me"
+author: "Ronald A. Pernia (路奈爾)"
+format: html
+---
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# About Me  
 
-What else do you need?
+Hi! I am **Ronald A. Pernia (路奈爾)**.  
 
-### My story
+I earned my PhD at the **National Sun Yat-sen University (國立中山大學)** and was a Predoctoral Fellow at the **Institute of Political Science at Academia Sinica (中央研究院政治研究所)** in Taiwan.  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My research interests include:  
+- Behavioral public administration  
+- Comparative political behavior  
+- Political trust and political values  
+- Quantitative methods (e.g., regression analyses and multilevel modeling using R)  
+- Educational politics and education research  
+
+My works have been published in:  
+- *Asian Journal of Political Science*  
+- *Journal of Asian Public Policy*  
+- *Asian Journal of Comparative Politics*  
+- *Journal of East Asian Studies*  
+- *Democratization*  
+
+Feel free to explore my website for more information about my work and research interests.
